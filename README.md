@@ -51,4 +51,4 @@ Happy learning!
 This repository was created by Alejandro Madrazo.
 
 ## Contact Information
-If you have any questions or feedback regarding this repository, you can reach out to Alejandro via email at alejandro@example.com or connect with him on [LinkedIn](https://www.linkedin.com/in/alejandro-madrazo-7a4ba7125/).
+If you have any questions or feedback regarding this repository, you can reach out to Alejandro via email at jmadrazo7@gmail.com or connect with him on [LinkedIn](https://www.linkedin.com/in/alejandro-madrazo-7a4ba7125/).
