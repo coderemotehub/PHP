@@ -18,9 +18,7 @@ For each module, we will use a Dockerfile to take advantage of learning Docker. 
 ### What is Docker? 
  * Docker is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization. 
  * Containers are lightweight, isolated environments that package everything needed to run an application, including the code, runtime, system tools, and libraries.
- * 
  * Docker provides a consistent and reproducible environment for running applications, making it easier to develop, test, and deploy software across different environments.
- * 
 For more information, you can refer to the official Docker documentation: [Docker Documentation](https://docs.docker.com/)
 
 
