@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(54, 54, 197);
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Arial', sans-serif;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.functions {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
