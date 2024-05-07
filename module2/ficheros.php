@@ -33,3 +33,20 @@
     echo "<p>Contenido del archivo que hemos escrito: $contenido</p>";
     fclose($archivo);
 ?>
+
+<h3>Crear Directorios</h3>
+<?php 
+    mkdir("directorio1");
+    chmod("directorio1", 0777);
+?>
+
+<h3>Mover, Eliminar y Renombrar</h3>
+<?php 
+    if(copy("fuente.txt", "destino.txt")) {
+        echo "Archivo movido correctamente";
+    } else {
+        echo "No se ha podido mover el archivo";
+    }
+    unlink("fuente.txt");
+    rename("destino.txt", "copia.txt");
+?>
