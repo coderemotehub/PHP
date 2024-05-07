@@ -34,3 +34,9 @@ Email: axasxax@gmail.com
 Contraseña: $2y$10$8N6hZDfe7Z4kYdT9zlOQKOwiPhskPtXM6nqccCVNczHxCmIoDyy4a 
 Edad: 11 
 ------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña: $2y$10$MzZT5hz3Db/gN9TG7kPT1ebFBPUAcA.4tO4S3VCHrcVB4OCm0kca. 
+Edad: 11 
+------------------------------------ 
