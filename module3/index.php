@@ -6,7 +6,7 @@
     <title>Formulario</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
-<body>
+<body class="m-5 p-2" style="border-style: solid; border-width: 1px; border-radius: 10px; background-color:antiquewhite">
     <h1>Formularios</h1>
     <form action="submit.php" method="POST">
         <div class="m-2">
