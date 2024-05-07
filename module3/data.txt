@@ -1,0 +1,36 @@
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña:  
+Edad: 11 
+------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña:  
+Edad: 11 
+------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña:  
+Edad: 11 
+------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña: asxaxasxasx 
+Edad: 11 
+------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña: holamundo 
+Edad: 11 
+------------------------------------ 
+Nombre: nombre 
+Apellidos: apellido 
+Email: axasxax@gmail.com 
+Contraseña: $2y$10$8N6hZDfe7Z4kYdT9zlOQKOwiPhskPtXM6nqccCVNczHxCmIoDyy4a 
+Edad: 11 
+------------------------------------ 
