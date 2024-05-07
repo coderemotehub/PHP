@@ -29,5 +29,7 @@
     } else {
         echo "No se puede escribir en el archivo.";
     }
+    $contenido = file_get_contents("texto2.txt");
+    echo "<p>Contenido del archivo que hemos escrito: $contenido</p>";
     fclose($archivo);
 ?>
